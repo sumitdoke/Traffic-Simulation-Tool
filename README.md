@@ -1,4 +1,4 @@
-roundabout-simulation
+Traffic-Simulation-Tool
 =====================
 
 Course project simulating traffic on roundabout.
