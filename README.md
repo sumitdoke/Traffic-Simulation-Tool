@@ -1,22 +1,17 @@
 # Traffic Simulation Tool
 
 ## Overview
-The **Traffic Simulation Tool** is a Python-based application designed to model and analyze traffic flow in urban environments. It utilizes Matplotlib for data visualization, allowing users to simulate various traffic scenarios and gain insights into urban infrastructure planning.
+The **Traffic Simulation Tool** is a Python application that models and analyzes traffic flow in urban environments using Matplotlib for visualization.
 
 ## Features
-- **Dynamic Traffic Flow Simulation:** Models vehicle movement and interactions based on real-world traffic rules.
-- **Data Visualization:** Presents traffic patterns and congestion levels through intuitive graphs and charts.
-- **User-Friendly Interface:** Easy to use, enabling users to adjust parameters and visualize outcomes in real-time.
+- Simulates vehicle movement based on real-world traffic rules.
+- Visualizes traffic patterns and congestion levels.
+- User-friendly interface for adjusting simulation parameters.
 
 ## Technologies Used
 - Python
 - Matplotlib
 - NumPy
 
-## Installation
-To run the Traffic Simulation Tool, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/traffic-simulation-tool.git
-   cd traffic-simulation-tool
+## License
+This project is licensed under the MIT License.
